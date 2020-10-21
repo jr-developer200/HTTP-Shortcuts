@@ -184,6 +184,8 @@
     <string name="settings_import">Import Shortcuts</string>
     <!-- Button in settings page to start export of shortcuts -->
     <string name="settings_export">Export Shortcuts</string>
+    <!-- Button in settings page to start editing shortcuts from a connected computer -->
+    <string name="settings_remote_edit">Edit on Computer</string>
     <!-- Success message, shown in snackbar when export of shortcuts is successful -->
     <plurals name="shortcut_export_success">
         <item quantity="one">1 shortcut exported.</item>
